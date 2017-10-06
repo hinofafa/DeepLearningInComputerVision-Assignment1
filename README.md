@@ -16,7 +16,6 @@ implement and apply a Softmax classifier
 implement and apply a Two layer neural network classifier
 understand the differences and tradeoffs between these classifiers
 get a basic understanding of performance improvements from using higher-level representations than raw pixels (e.g. color histograms, Histogram of Gradient (HOG) features)
-Get the code as a zip file here.
 
 Download data: Once you have the starter code, you will need to download the CIFAR-10 dataset. Run the following from the assignment1 directory:
 
