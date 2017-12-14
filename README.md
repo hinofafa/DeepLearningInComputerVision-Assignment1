@@ -1,6 +1,6 @@
 # Comp4901J Deep Learning In Computer Vision - Assignment1
 
-The course website: https://course.cse.ust.hk/comp4901j/Password_Only/index.html
+The course website: https://course.cse.ust.hk/comp4901j/
 
 Image Classification, kNN, SVM, Softmax, Neural Network
 
